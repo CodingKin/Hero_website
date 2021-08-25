@@ -1,0 +1,60 @@
+body{
+	background-image: url("Superheroimage.jpg");
+	text-align: center;
+}
+
+#title {
+	color: #003366;
+}
+
+.subtitle{
+	color: goldenrod;
+	font-size: 25px;
+}
+
+.subtitle2{
+	color: red;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#enter-hero-input{
+	width: 60%;
+	height: 40px;
+	border-radius: 10px;
+	border: 1px solid white;
+	margin-bottom: 30px;
+}
+
+#submit-button{
+	background-color: blue;
+	color: white;
+	border: 1px solid blue;
+	border-radius: 10px;
+	height: 30px;
+	width: 80px;
+	margin-left: 20px;
+}
+
+#power-stat-table{
+	width: 60%;
+	font-size: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 2px solid blue;
+	text-align: center;
+}
+
+th, td{
+	border: 2px solid blue;
+}
+
+
+#image-superman{
+	border-radius: 20px;
+	border: 2px solid magenta;
+}
+
+#power-stat-title{
+	text-decoration: underline;
+}
